@@ -1,13 +1,13 @@
 {
   "name": "react-native-html-to-pdf",
-  "version": "0.3.0",
+  "version": "0.2.5",
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "description": "Convert html strings to PDF documents using React Native",
   "repository": {
     "type": "git",
-    "url": "github:christopherdro/react-native-html-to-pdf"
+    "url": "github:AradoLabs/react-native-html-to-pdf"
   },
   "keywords": [
     "html",
